@@ -1,0 +1,12 @@
+stream/group/TestGroupByStream.java
+ stream.group.TestGroupByStream
+Square.java
+ Square
+stream/group/Speciality.java
+ stream.group.Speciality
+stream/Shredinger.java
+ stream.Shredinger
+stream/group/Student.java
+ stream.group.Student
+TestJava.java
+ TestJava
